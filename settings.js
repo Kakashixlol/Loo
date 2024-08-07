@@ -27,7 +27,7 @@ global.wm = "𝙈𝙢𝙀𝙚𝙂𝙜𝙊𝙤."
 global.botscript = 'https://github.com/Botmego11/MegoBot-MG' //script link
 global.packname = "Sticker By"
 global.author = "𝙈𝙢𝙀𝙚𝙂𝙜𝙊𝙤\n\n+201025663589"
-global.creator = "120363230213252726@newsletter"
+global.creator = "201025663589@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["201012531172"] // Premium User
 
