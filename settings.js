@@ -12,28 +12,28 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.ytname = "YT: mego" //ur yt chanel name
+global.socialm = "GitHub: botmego11" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V15' //ur bot name
-global.ownernumber = ['22871255034'] //ur owner number, dont add more than one
-global.ownername = '❄️Raizen' //ur owner name
-global.websitex = "https://youtu.be/tLq8_qOOGFI"
-global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
+global.botname = '*『🔥┇𝙼𝙴𝙶𝙾-𝙱𝙾𝚃』*' //ur bot name
+global.ownernumber = ['201025663589'] //ur owner number, dont add more than one
+global.ownername = '𝙢,𝙚,𝙜,𝙤, ❦︎' //ur owner name
+global.websitex = "https://youtu.be/mego51_51"
+global.wagc = "https://whatsapp.com/channel/0029VaRygQcATRSk29RI4P1x"
 global.themeemoji = '❄️'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD15' //script link
+global.wm = "𝙈𝙢𝙀𝙚𝙂𝙜𝙊𝙤."
+global.botscript = 'https://github.com/Botmego11/MegoBot-MG' //script link
 global.packname = "Sticker By"
-global.author = "❄️Raizen Darki Linkid\n\n+22871255034"
-global.creator = "22871255034@s.whatsapp.net"
+global.author = "𝙈𝙢𝙀𝙚𝙂𝙜𝙊𝙤\n\n+201025663589"
+global.creator = "120363230213252726@newsletter"
 global.xprefix = '.'
-global.premium = ["22871255034"] // Premium User
+global.premium = ["201012531172"] // Premium User
 
 //channel id
 global.xchannel = {
-	jid: '120363222395675670@newsletter'
+	jid: '120363230213252726@newsletter'
 	}
 
 //bot sett
