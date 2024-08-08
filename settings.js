@@ -17,16 +17,16 @@ global.socialm = "GitHub: botmego11" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = '*『🔥┇𝙼𝙴𝙶𝙾-𝙱𝙾𝚃』*' //ur bot name
+global.botname = '*𝘏𝘌𝘙𝘖*' //ur bot name
 global.ownernumber = ['201025663589'] //ur owner number, dont add more than one
-global.ownername = '𝙢,𝙚,𝙜,𝙤, ❦︎' //ur owner name
+global.ownername = '𝘏,𝘌,𝘙,𝘖,𓀐' //ur owner name
 global.websitex = "https://youtu.be/mego51_51"
 global.wagc = "https://whatsapp.com/channel/0029VaRygQcATRSk29RI4P1x"
 global.themeemoji = '❄️'
-global.wm = "𝙈𝙢𝙀𝙚𝙂𝙜𝙊𝙤."
+global.wm = "𝘏,𝘌,𝘙,𝘖,𓀐."
 global.botscript = 'https://github.com/Botmego11/MegoBot-MG' //script link
 global.packname = "Sticker By"
-global.author = "𝙈𝙢𝙀𝙚𝙂𝙜𝙊𝙤\n\n+201025663589"
+global.author = "𝘏,𝘌,𝘙,𝘖,𓀐\n\n+201025663589"
 global.creator = "201025663589@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["201012531172"] // Premium User
