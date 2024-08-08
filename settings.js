@@ -12,15 +12,15 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: mego" //ur yt chanel name
-global.socialm = "GitHub: botmego11" //ur github or insta name
+global.ytname = "YT: 𝘏,𝘌,𝘙,𝘖,𓀐" //ur yt chanel name
+global.socialm = "GitHub: 𝘏,𝘌,𝘙,𝘖,𓀐" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = '*𝘏𝘌𝘙𝘖*' //ur bot name
 global.ownernumber = ['201025663589'] //ur owner number, dont add more than one
 global.ownername = '𝘏,𝘌,𝘙,𝘖,𓀐' //ur owner name
-global.websitex = "https://youtu.be/mego51_51"
+global.websitex = "https://instagram.com/mego51_51"
 global.wagc = "https://whatsapp.com/channel/0029VaRygQcATRSk29RI4P1x"
 global.themeemoji = '❄️'
 global.wm = "𝘏,𝘌,𝘙,𝘖,𓀐."
