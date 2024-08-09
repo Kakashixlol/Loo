@@ -12,21 +12,21 @@ const fs = require('fs');
 const chalk = require('chalk');
 
 //owmner v card
-global.ytname = "YT: 𝘏,𝘌,𝘙,𝘖,𓀐" //ur yt chanel name
-global.socialm = "GitHub: 𝘏,𝘌,𝘙,𝘖,𓀐" //ur github or insta name
+global.ytname = " FACK YOU 𓀐" //ur yt chanel name
+global.socialm = "FACK YOU 𓀐" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = '*𝘏𝘌𝘙𝘖*' //ur bot name
+global.botname = 'FACK YOU' //ur bot name
 global.ownernumber = ['201025663589'] //ur owner number, dont add more than one
-global.ownername = '𝘏,𝘌,𝘙,𝘖,𓀐' //ur owner name
+global.ownername = 'FACK YOU 𓀐' //ur owner name
 global.websitex = "https://instagram.com/mego51_51"
 global.wagc = "https://whatsapp.com/channel/0029VaRygQcATRSk29RI4P1x"
 global.themeemoji = '❄️'
-global.wm = "𝘏,𝘌,𝘙,𝘖,𓀐."
+global.wm = "FACK YOU 𓀐."
 global.botscript = 'https://github.com/Botmego11/MegoBot-MG' //script link
 global.packname = "Sticker By"
-global.author = "𝘏,𝘌,𝘙,𝘖,𓀐\n\n+201025663589"
+global.author = "FACK YOU 𓀐\n\n+201025663589"
 global.creator = "201025663589@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["201012531172"] // Premium User
